@@ -2,5 +2,10 @@
 
 Параметры запуска
 
+```console
 ./data.backup.sh {exec}
+```
 
+---
+
+![alt text](https://github.com/rlagutinhub/data.backup/blob/master/screen.png)
